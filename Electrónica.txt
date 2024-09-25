@@ -1,0 +1,2 @@
+Televisor,500.0
+Laptop,700.0

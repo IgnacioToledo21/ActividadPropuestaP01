@@ -1,0 +1,4 @@
+101,Televisor,500.00,Electrónica
+102,Laptop,700.00,Electrónica
+103,Zapatos,50.00,Calzado
+104,Camisa,30.00,Ropa
